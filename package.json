@@ -1,0 +1,25 @@
+{
+  "name": "practica-api-rest-movie",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Consume el API de The Movie DB, para consultar películas y mostrarlas en la aplicación",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Chrisgalo/practica-api-rest-movie-js.git"
+  },
+  "keywords": [
+    "js",
+    "apirest",
+    "theMovieDB"
+  ],
+  "author": "Christian García <chrisgalo09@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Chrisgalo/practica-api-rest-movie-js/issues"
+  },
+  "homepage": "https://github.com/Chrisgalo/practica-api-rest-movie-js#readme"
+}
